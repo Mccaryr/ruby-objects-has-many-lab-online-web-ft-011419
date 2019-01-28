@@ -15,6 +15,6 @@ class Post
       author
     else
       nil
-
+    end
     end
   end
